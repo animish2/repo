@@ -1,0 +1,6 @@
+--git reset  -undo the commited changes, history will be removed
+
+--git reset -- mixed / git reset HEAD -> moves files from staging area to workspace
+--git reset -- soft / commitID -> moves files from git repo to staging area, history will removed
+--git reset -- hard / commitID  -> moves files from git repo, staging area, workspace and commitID's  are also removed
+
